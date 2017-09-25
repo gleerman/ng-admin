@@ -65,7 +65,7 @@
     "sinon": "~1.14.1",
     "style-loader": "^0.12.2",
     "superagent": "^0.18.2",
-    "textangular": "1.4.3",
+    "textangular": "git://github.com/gleerman/textangular.git#feature\/custom_tab_behaviour",
     "ui-select": "angular-ui/ui-select#271bf6a03078587c5afdb05f61e826573a13d348",
     "underscore": "^1.8.3",
     "url-loader": "^0.5.5",
