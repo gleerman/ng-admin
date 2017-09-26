@@ -4,7 +4,8 @@
 
 tab {  
   display: inline-block;
-  width: 40px;
+  min-width: 40px;
+  height: 10px;
 }
 
 #nprogress div.spinner {
